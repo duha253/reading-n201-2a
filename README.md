@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/duha253/reading-n201-2a/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**It contains**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ⦁	The Structure of This Book
+It's  divided into three sections
+1. HTML: the first  chapter looking at how HTML is used to create web pages. 
 
-### Markdown
+2. CSS: this section with a chapter that explains how CSS uses rules to enable you to control the styling and layout of web pages. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. Practical:  end up with some helpful information that will assist  in building better websites.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### ⦁	How People Access the Web?
 
-- Bulleted
-- List
+1. Browsers:People access websites using software called a web browser. Popular examples include Firefox, Internet Explorer, Safari,Chrome, and Opera.
 
-1. Numbered
-2. List
+2.Web Servers: Web servers are special computers that are constantly connected to the Internet, and are optimized to send web pages out to people who request them.
 
-**Bold** and _Italic_ and `Code` text
+3. Screen readers:Screen readers are programs that read out the  contents of a computer screen to a user. They are commonly used by people with visual impairments.
 
-[Link](url) and ![Image](src)
-```
+4.Devices:People are accessing websites on an increasing range of  devices including desktop computers, laptops, tablets, and mobile phones. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### ⦁	How Websites Are Created?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/duha253/reading-n201-2a/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+HTML structure + CSS style + JS interaction = web page
 
-### Support or Contact
+![Websites](https://i.ytimg.com/vi/pOwLCTkypUs/maxresdefault.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+ ### ⦁	How the Web Works?
+
+When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
+
+![Websites](https://i.ytimg.com/vi/R4KX6iLqXSc/maxresdefault.jpg)
+
+
+
+
